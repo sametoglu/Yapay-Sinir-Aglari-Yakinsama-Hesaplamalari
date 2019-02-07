@@ -1,0 +1,9 @@
+c:\users\samet\documents\visual studio 2013\Projects\yapay_sinir_ağları\yapay_sinir_ağları\bin\Debug\yapay_sinir_ağları.exe.config
+c:\users\samet\documents\visual studio 2013\Projects\yapay_sinir_ağları\yapay_sinir_ağları\bin\Debug\yapay_sinir_ağları.exe
+c:\users\samet\documents\visual studio 2013\Projects\yapay_sinir_ağları\yapay_sinir_ağları\bin\Debug\yapay_sinir_ağları.pdb
+c:\users\samet\documents\visual studio 2013\Projects\yapay_sinir_ağları\yapay_sinir_ağları\obj\Debug\yapay_sinir_ağları.csprojResolveAssemblyReference.cache
+c:\users\samet\documents\visual studio 2013\Projects\yapay_sinir_ağları\yapay_sinir_ağları\obj\Debug\yapay_sinir_ağları.Form1.resources
+c:\users\samet\documents\visual studio 2013\Projects\yapay_sinir_ağları\yapay_sinir_ağları\obj\Debug\yapay_sinir_ağları.Properties.Resources.resources
+c:\users\samet\documents\visual studio 2013\Projects\yapay_sinir_ağları\yapay_sinir_ağları\obj\Debug\yapay_sinir_ağları.csproj.GenerateResource.Cache
+c:\users\samet\documents\visual studio 2013\Projects\yapay_sinir_ağları\yapay_sinir_ağları\obj\Debug\yapay_sinir_ağları.exe
+c:\users\samet\documents\visual studio 2013\Projects\yapay_sinir_ağları\yapay_sinir_ağları\obj\Debug\yapay_sinir_ağları.pdb
